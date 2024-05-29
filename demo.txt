@@ -4,4 +4,8 @@ MSV: A40626
 Họ tên: Lê Huy Hoàng
 MSV: A40549
 
+<<<<<<< HEAD
 MSV: A38948
+=======
+Họ tên: Đào Trọng Hoàng
+>>>>>>> 3fb706f1dbafc8dbaf0c2ca79319b6063e7ab841
